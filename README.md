@@ -4,6 +4,8 @@
 
 Redefining FiveM Server Protection
 
+[![OneSync Requirement](https://img.shields.io/badge/OneSync-Required-blue?style=for-the-badge&logo=fivem&logoColor=white)](https://docs.fivem.net/docs/scripting-reference/onesync/)
+[![Latest Artifacts Requirement](https://img.shields.io/badge/Latest%20Artifacts-Required-blue?style=for-the-badge&logo=fivem&logoColor=white)](https://runtime.fivem.net/artifacts/fivem/build_server_windows/master)
 
 ![5S](https://cdn.discordapp.com/attachments/1416499778308800634/1416499821996412958/5M.png?ex=68c7ba82&is=68c66902&hm=91bf9afc17c44b8d53ebc03b73d360775a5a8de3a947c5c7302eae14a7d84b2d&)
 
